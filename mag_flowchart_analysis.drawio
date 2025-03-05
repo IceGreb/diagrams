@@ -149,10 +149,10 @@
         <mxCell id="R5FXkQCkuI0y1Rf3ddFC-69" value="gtdbtk params" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="1390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-75" value="genome" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-75" value="GCA_902168225.1" style="whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-77" value="genome" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-77" value="&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;GCA_017307375.1&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A20025;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTSfxV0gaFB9FaLGtcT8-1" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fillColor=#FFF2CC;strokeColor=#000000;imageAspect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
