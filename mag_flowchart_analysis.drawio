@@ -461,7 +461,7 @@
           <mxGeometry x="620" y="1110" width="650" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zTSfxV0gaFB9FaLGtcT8-108" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;236&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; plasmid(s) and &lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;88&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; virus(es) were identified.  &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-873" y="890" width="443" height="30" as="geometry" />
+          <mxGeometry x="-873" y="890" width="443" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zTSfxV0gaFB9FaLGtcT8-115" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTSfxV0gaFB9FaLGtcT8-110" target="zTSfxV0gaFB9FaLGtcT8-87">
           <mxGeometry relative="1" as="geometry" />
