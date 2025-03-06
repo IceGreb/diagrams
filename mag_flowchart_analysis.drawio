@@ -158,7 +158,7 @@
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5FXkQCkuI0y1Rf3ddFC-77" target="mJRxZcVxpFR7S6qS6YIy-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-77" value="&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;GCA_017307375.1&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A20025;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-77" value="&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_017307375.1/&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;GCA_017307375.1&lt;/span&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;fillColor=#A20025;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTSfxV0gaFB9FaLGtcT8-1" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fillColor=#FFF2CC;strokeColor=#000000;imageAspect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
