@@ -552,19 +552,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-0" value="Taxonomy summary" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-95" y="1840" width="235" height="180" as="geometry" />
+          <mxGeometry x="-120" y="1840" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-1" value="ANI score 97.87 (synonym)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="mJRxZcVxpFR7S6qS6YIy-0">
-          <mxGeometry y="26" width="235" height="30" as="geometry" />
+          <mxGeometry y="26" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-2" value="AF score 0.893 (alignment)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="mJRxZcVxpFR7S6qS6YIy-0">
-          <mxGeometry y="56" width="235" height="30" as="geometry" />
+          <mxGeometry y="56" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-3" value="Taxonomic classification defined by topology and ANI" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="mJRxZcVxpFR7S6qS6YIy-0">
-          <mxGeometry y="86" width="235" height="44" as="geometry" />
+          <mxGeometry y="86" width="260" height="44" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-10" value="topological placement and ANI have congruent species assignments" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="mJRxZcVxpFR7S6qS6YIy-0">
-          <mxGeometry y="130" width="235" height="50" as="geometry" />
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-5" value="Taxonomy summary" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1840" width="240" height="200" as="geometry" />
