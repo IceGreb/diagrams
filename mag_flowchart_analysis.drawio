@@ -152,7 +152,7 @@
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5FXkQCkuI0y1Rf3ddFC-75" target="mJRxZcVxpFR7S6qS6YIy-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-75" value="GCA_902168225.1" style="whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R5FXkQCkuI0y1Rf3ddFC-75" value="&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_902168225.1/&quot;&gt;GCA_902168225.1&lt;/a&gt;" style="whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5FXkQCkuI0y1Rf3ddFC-77" target="mJRxZcVxpFR7S6qS6YIy-5">
