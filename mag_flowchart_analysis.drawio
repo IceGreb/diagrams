@@ -2110,6 +2110,9 @@
         <mxCell id="0jNp3ZCBVDC372J-Qii0-27" value="microRNA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="691" y="210" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aGyUwd-JpnGVumluZGy6-1" value="MSA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
