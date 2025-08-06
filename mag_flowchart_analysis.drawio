@@ -1987,9 +1987,6 @@
             <mxPoint x="820" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KHHMkjpKAbHqEkh5LYXi-14" value="&lt;b&gt;4,558,444&amp;nbsp;&lt;/b&gt;&lt;br&gt;of original trans RNAs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="860" y="220" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KHHMkjpKAbHqEkh5LYXi-15" value="Filtered" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" parent="1" vertex="1">
           <mxGeometry x="780" y="210" width="60" height="30" as="geometry" />
         </mxCell>
