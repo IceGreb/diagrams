@@ -1975,10 +1975,10 @@
         <mxCell id="KHHMkjpKAbHqEkh5LYXi-9" value="BLAST&lt;br&gt;57,424,700&lt;br&gt;=&lt;br&gt;160,590,212 hits&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;​" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="130" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KHHMkjpKAbHqEkh5LYXi-10" value="Unclassified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;" parent="1" vertex="1">
+        <mxCell id="KHHMkjpKAbHqEkh5LYXi-10" value="Unclassified" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=25;" parent="1" vertex="1">
           <mxGeometry x="525" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHHMkjpKAbHqEkh5LYXi-11" value="RFAM&lt;br&gt;=&lt;br&gt;253,956 hits" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KHHMkjpKAbHqEkh5LYXi-11" value="scan&amp;nbsp;&lt;b&gt;4,558,444&amp;nbsp;&lt;/b&gt;&lt;br&gt;of original trans RNAs&lt;b&gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;against RFAM&lt;br&gt;=&lt;br&gt;253,956 hits" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="260" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KHHMkjpKAbHqEkh5LYXi-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.738;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KHHMkjpKAbHqEkh5LYXi-9" target="KHHMkjpKAbHqEkh5LYXi-11" edge="1">
@@ -1991,7 +1991,7 @@
           <mxGeometry x="860" y="220" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KHHMkjpKAbHqEkh5LYXi-15" value="Filtered" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" parent="1" vertex="1">
-          <mxGeometry x="770" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="780" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ADO3DpNLK9EqrnKvtK7--1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.333;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KHHMkjpKAbHqEkh5LYXi-5" target="KHHMkjpKAbHqEkh5LYXi-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
