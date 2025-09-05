@@ -1926,7 +1926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_0OPygO8D4u2OagX7M25" name="Page-2">
-    <mxGraphModel dx="2529" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2529" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2126,6 +2126,12 @@
         </mxCell>
         <mxCell id="KHHMkjpKAbHqEkh5LYXi-9" value="BLAST&lt;br&gt;63,728,996&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;&lt;br&gt;=&lt;br&gt;160,590,212 hits&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;​&lt;br&gt;(up to 5/query)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="130" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ktfNYygI9abKZw4r-16U-29" value="&lt;div&gt;honeybee&amp;nbsp;&lt;/div&gt;&lt;div&gt;transcriptome&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ktfNYygI9abKZw4r-16U-30" value="&lt;div&gt;honeybee&amp;nbsp;&lt;/div&gt;&lt;div&gt;metatranscriptome&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="225" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
