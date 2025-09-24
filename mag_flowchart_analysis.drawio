@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.0.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.3" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5573" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5812" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1281,10 +1281,15 @@
         <mxCell id="tJcobSENn090kBTTM_B9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xeLy9mEZutli1ZbNieWB-6" target="tJcobSENn090kBTTM_B9-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-4" value="Filters" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tJcobSENn090kBTTM_B9-15">
+          <mxGeometry x="0.3731" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Rti6tE7N6AMd8pbSJh0U-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xeLy9mEZutli1ZbNieWB-6" target="Rti6tE7N6AMd8pbSJh0U-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xeLy9mEZutli1ZbNieWB-6" value="Metagenomic Classification" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xeLy9mEZutli1ZbNieWB-6" value="Taxonomic&lt;br&gt;Classification" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1932" y="1981" width="115" height="97" as="geometry" />
         </mxCell>
         <mxCell id="xeLy9mEZutli1ZbNieWB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xeLy9mEZutli1ZbNieWB-8" target="xeLy9mEZutli1ZbNieWB-10" edge="1">
@@ -1328,7 +1333,7 @@
         <mxCell id="tJcobSENn090kBTTM_B9-8" value="Clean RNA reads" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1834" y="1769" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tJcobSENn090kBTTM_B9-14" value="OTUs" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tJcobSENn090kBTTM_B9-14" value="OTUs&lt;br&gt;80,013,268" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-2145" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ht6gwPsYVJhQ1lffb94H-0" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fillColor=light-dark(#FFE6CC,#281D00);strokeColor=light-dark(#fff2cc, #EDEDED);imageAspect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -1889,20 +1894,28 @@
         <mxCell id="Rti6tE7N6AMd8pbSJh0U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rti6tE7N6AMd8pbSJh0U-0" target="Rti6tE7N6AMd8pbSJh0U-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rti6tE7N6AMd8pbSJh0U-0" value="unclassified &amp;lt;31nt" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Rti6tE7N6AMd8pbSJh0U-0" value="unclassified&lt;br&gt;63,728,996&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1934" y="2177" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rti6tE7N6AMd8pbSJh0U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rti6tE7N6AMd8pbSJh0U-2" target="Rti6tE7N6AMd8pbSJh0U-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rti6tE7N6AMd8pbSJh0U-2" value="identification" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1914" y="2316" width="80" height="80" as="geometry" />
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rti6tE7N6AMd8pbSJh0U-2" target="vz8okxZ3XfjHckVE-Hh9-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-3" value="Filters" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vz8okxZ3XfjHckVE-Hh9-1">
+          <mxGeometry x="-0.1617" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rti6tE7N6AMd8pbSJh0U-2" value="Taxonomic&lt;br&gt;Classification" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1929.5" y="2316" width="110" height="89" as="geometry" />
         </mxCell>
         <mxCell id="Rti6tE7N6AMd8pbSJh0U-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rti6tE7N6AMd8pbSJh0U-4" target="Rti6tE7N6AMd8pbSJh0U-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rti6tE7N6AMd8pbSJh0U-4" value="blast" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1784" y="2316" width="148" height="80" as="geometry" />
+          <mxGeometry x="-1784" y="2320.5" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Rti6tE7N6AMd8pbSJh0U-7" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 130%;&quot;&gt;blastn -task blastn-short.&lt;br&gt;params: &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Smaller Word Size (&lt;code&gt;-word_size 17&lt;/code&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p align=&quot;left&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Modified Scoring Scheme (&lt;code&gt;-reward 1 -penalty -3&lt;/code&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;Default &lt;code&gt;blastn&lt;/code&gt; uses &lt;code&gt;-reward 2 -penalty -3&lt;/code&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;code&gt;blastn-short&lt;/code&gt; reduces the match reward (&lt;code&gt;1&lt;/code&gt;) to &lt;strong&gt;lower the threshold for significance&lt;/strong&gt;, making it easier for short alignments to pass statistical filters.&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p align=&quot;left&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Stricter Gap Costs (&lt;code&gt;-gapopen 5 -gapextend 2&lt;/code&gt;)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;code&gt;blastn-short&lt;/code&gt; penalizes gaps more heavily (&lt;strong&gt;&lt;code&gt;-gapopen 5&lt;/code&gt;&lt;/strong&gt;) to avoid over-penalizing short sequences with indels.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Adjusted E-value Calculation (more lenient)&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p align=&quot;left&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Reduced Filters for Low-Complexity Regions&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;Less aggressive masking (e.g., &lt;code&gt;-dust no&lt;/code&gt;) to avoid missing short but biologically relevant matches.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1585" y="2171" width="426" height="370" as="geometry" />
@@ -1921,6 +1934,21 @@
         </mxCell>
         <mxCell id="mJRxZcVxpFR7S6qS6YIy-10" value="topological placement and ANI have congruent species assignments" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="mJRxZcVxpFR7S6qS6YIy-0" vertex="1">
           <mxGeometry y="120" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vz8okxZ3XfjHckVE-Hh9-0" target="vz8okxZ3XfjHckVE-Hh9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-0" value="&lt;div&gt;Classified&lt;/div&gt;36,014,229" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1934.5" y="2572" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vz8okxZ3XfjHckVE-Hh9-5" target="vz8okxZ3XfjHckVE-Hh9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-5" value="Rfams" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1914.5" y="2702" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vz8okxZ3XfjHckVE-Hh9-7" value="Rfam Hits" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1934.5" y="2872" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
