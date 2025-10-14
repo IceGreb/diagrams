@@ -1341,14 +1341,14 @@
         <mxCell id="tJcobSENn090kBTTM_B9-8" value="Clean RNA reads" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1834" y="1769" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-236" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=filledEdge;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-236" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=filledEdge;entryX=0.004;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Q6DAF8uBxNN7fI20Kvzg-237">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1869" y="3370" as="targetPoint" />
             <mxPoint x="-2352" y="2335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tJcobSENn090kBTTM_B9-14" value="Trans. RNA&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;br&gt;76,316,198&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-2472" y="2297" width="120" height="60" as="geometry" />
+        <mxCell id="tJcobSENn090kBTTM_B9-14" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;RJ RNA  71,250,764&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;+&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;Trans. RNA&amp;nbsp; 5,065,434&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;= 76,316,198&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-2472" y="2297" width="171" height="97" as="geometry" />
         </mxCell>
         <mxCell id="Ht6gwPsYVJhQ1lffb94H-0" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fillColor=light-dark(#FFE6CC,#281D00);strokeColor=light-dark(#fff2cc, #EDEDED);imageAspect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-2604" y="1077.5" width="479" height="470" as="geometry" />
@@ -1898,7 +1898,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vz8okxZ3XfjHckVE-Hh9-0" value="&lt;div&gt;Classified&lt;/div&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size:14pt;font-family:Arial;font-style:normal;color:#434343;text-align:right;&quot;&gt;61,685,552&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1833" y="2713" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1834" y="2709" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vz8okxZ3XfjHckVE-Hh9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vz8okxZ3XfjHckVE-Hh9-5" target="vz8okxZ3XfjHckVE-Hh9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1921,14 +1921,11 @@
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-6" value="&lt;span style=&quot;font-size:10pt;font-family:Roboto,Arial;font-weight:normal;font-style:normal;color:#434343;text-align:right;&quot; data-sheets-root=&quot;1&quot;&gt;153,176,408&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1704" y="1252" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-9" value="&lt;span style=&quot;font-size:10pt;font-family:Roboto,Arial;font-weight:normal;font-style:normal;color:#434343;text-align:right;&quot; data-sheets-root=&quot;1&quot;&gt;157,885,606&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1701" y="1780" width="102" height="38" as="geometry" />
+        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-9" value="&lt;span style=&quot;font-size: 10pt; font-family: Roboto, Arial; font-weight: normal; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot; data-sheets-root=&quot;1&quot;&gt;157,885,606&lt;/span&gt;&amp;nbsp;&lt;br&gt;(0.88% of trimmed)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1701" y="1776" width="110" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Apoidea&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Muridae&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Hominoidea&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Viral&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;Insecta&lt;br&gt;Invertebrates&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2168" y="2246.5" width="159" height="161" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6DAF8uBxNN7fI20Kvzg-16" target="Q6DAF8uBxNN7fI20Kvzg-228">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-2170" y="2265" width="159" height="161" as="geometry" />
         </mxCell>
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6DAF8uBxNN7fI20Kvzg-19" target="Q6DAF8uBxNN7fI20Kvzg-10">
           <mxGeometry relative="1" as="geometry" />
@@ -2134,11 +2131,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-228" value="Trans. RNA&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;br&gt;34,448,812&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2472" y="3091" width="120" height="60" as="geometry" />
+        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-228" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RJ RNA&amp;nbsp; 29,645,688&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Trans. RNA&amp;nbsp; 4,803,124&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 34,448,812&lt;/font&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2472" y="3091" width="172" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-230" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2223" y="2993.5" width="269" height="255" as="geometry" />
+          <mxGeometry x="-2361" y="2844" width="269" height="255" as="geometry" />
         </mxCell>
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Apoidea&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Muridae&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Hominoidea&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Viral&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;Insecta&lt;br&gt;Invertebrates&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=46.000000000000455;" vertex="1" parent="Q6DAF8uBxNN7fI20Kvzg-230">
           <mxGeometry width="268.99999999999994" height="255" as="geometry" />
@@ -2154,8 +2151,8 @@
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6DAF8uBxNN7fI20Kvzg-237" target="Q6DAF8uBxNN7fI20Kvzg-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-237" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Total Tranmissible RNA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;110,765,010&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1869" y="3310" width="192" height="104" as="geometry" />
+        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-237" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Total Tranmissible RNA&amp;nbsp; 9,868,558 (0.81% of trimmed)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RJ RNA 100,896,452&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(17.47% of trimmed)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;=&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;110,765,010&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1894" y="3282" width="242" height="151" as="geometry" />
         </mxCell>
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6DAF8uBxNN7fI20Kvzg-239" target="Q6DAF8uBxNN7fI20Kvzg-241">
           <mxGeometry relative="1" as="geometry" />
@@ -2173,6 +2170,9 @@
         </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-2" value="--default Use the default filtering strategy. This option is on by default. The filter thresholds are&#xa;determined based on the database size." style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1405.9985714285706" y="3527.5" width="526" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="864Gorrm9WD0UoEy7kQF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q6DAF8uBxNN7fI20Kvzg-16" target="Q6DAF8uBxNN7fI20Kvzg-228">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
