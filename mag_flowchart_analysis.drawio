@@ -2192,6 +2192,9 @@
         <mxCell id="864Gorrm9WD0UoEy7kQF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15" target="864Gorrm9WD0UoEy7kQF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="864Gorrm9WD0UoEy7kQF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15" target="864Gorrm9WD0UoEy7kQF-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-15" value="RJ vs ST&lt;br&gt;sequence alignment" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1758.75" y="4229" width="95.5" height="94.5" as="geometry" />
         </mxCell>
@@ -2215,6 +2218,15 @@
         </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1736" y="4157" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="864Gorrm9WD0UoEy7kQF-30" value="125750 unique RJ hits" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1894" y="4513" width="126.94" height="77.06" as="geometry" />
+        </mxCell>
+        <mxCell id="864Gorrm9WD0UoEy7kQF-31" value="&lt;div&gt;9724145 alignments&lt;/div&gt;&lt;div&gt;4169246 of those passed thresholds&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1794.5" y="4399" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="864Gorrm9WD0UoEy7kQF-33" value="124891 unique ST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1762.5" y="4513" width="116" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
