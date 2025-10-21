@@ -2231,17 +2231,20 @@
         <mxCell id="864Gorrm9WD0UoEy7kQF-33" value="&lt;div&gt;124891 unique ST &amp;gt;=10&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.9%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1722" y="4480" width="147" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-0" value="&lt;div&gt;166424 ST seqs &amp;gt;=10&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-0" value="&lt;div&gt;166,424 ST seqs &amp;gt;=10&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1709" y="4365" width="172" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-1" value="&lt;div&gt;18762504 alignments&lt;/div&gt;&lt;div&gt;7373144 of those passed thresholds 39%&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-1" value="&lt;div&gt;40,982,408 alignments&lt;/div&gt;&lt;div&gt;19,450,806 of those passed thresholds 47%&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1499" y="4416" width="148" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-3" value="&lt;div&gt;213615 unique ST &amp;gt;=5 10.1%&lt;br&gt;216827 unique RJ hits 1.97%&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1340" y="4428" width="180" height="36" as="geometry" />
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-3" value="&lt;div&gt;211,984 unique ST hits = 10% of overall Unique ST (2,1M) - 71% of ST seqs &amp;gt;= 5 rep.&lt;br&gt;431,663 unique RJ hits = 3.93% of overall Unique RJ (10,9M) - 49.7% of RJ seqs &amp;gt;= 10 rep&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1339" y="4408" width="277" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-4" value="296544 ST seqs &amp;gt;=5" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-4" value="296,544 ST seqs &amp;gt;=5" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1488" y="4380" width="139" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5_X2gjsubGyl6H6Lb81s-0" value="868,458 RJ seqs &amp;gt;=10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1851" y="4351" width="134" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
