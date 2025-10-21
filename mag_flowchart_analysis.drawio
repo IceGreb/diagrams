@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5812" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2204,8 +2204,8 @@
         <mxCell id="864Gorrm9WD0UoEy7kQF-17" value="mmseqs" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1579" y="4236.25" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="864Gorrm9WD0UoEy7kQF-19" value="&lt;div&gt;thresholds:&lt;/div&gt;&lt;div&gt;RJ (query) with &amp;gt;=10 duplicates&lt;/div&gt;&lt;div&gt;95% of ST (target) coverage&lt;/div&gt;&lt;div&gt;95% alignment identity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1282" y="4241.25" width="187" height="70" as="geometry" />
+        <mxCell id="864Gorrm9WD0UoEy7kQF-19" value="&lt;div&gt;search a --min-seq-id 0.95 --search-type 3 --cov-mode 2 -c 0.95 --alignment-mode 3 --threads 60 -s 7&lt;/div&gt;&lt;div&gt;thresholds:&lt;/div&gt;&lt;div&gt;RJ (query) with &amp;gt;=10 duplicates&lt;/div&gt;&lt;div&gt;95% of ST (target) coverage&lt;/div&gt;&lt;div&gt;95% alignment identity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1315" y="4234.25" width="555" height="84" as="geometry" />
         </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-23" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;RJ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;10,979,943&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fillColor=#FFB366;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1816.5" y="4123" width="100" height="60" as="geometry" />
@@ -2222,7 +2222,7 @@
         <mxCell id="864Gorrm9WD0UoEy7kQF-30" value="125750 unique RJ hits1.14%" style="text;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1862.94" y="4494" width="126.94" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-31" target="dRt-UVQYtzfeHvVl3BMC-1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-31" target="dRt-UVQYtzfeHvVl3BMC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-31" value="&lt;div&gt;9724145 alignments&lt;/div&gt;&lt;div&gt;4169246 of those passed thresholds 42.8%&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -2231,16 +2231,16 @@
         <mxCell id="864Gorrm9WD0UoEy7kQF-33" value="&lt;div&gt;124891 unique ST &amp;gt;=10&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.9%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1722" y="4480" width="147" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-0" value="&lt;div&gt;166424 ST seqs &amp;gt;=10&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-0" value="&lt;div&gt;166424 ST seqs &amp;gt;=10&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1709" y="4365" width="172" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-1" value="&lt;div&gt;18762504 alignments&lt;/div&gt;&lt;div&gt;7373144 of those passed thresholds 39%&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-1" value="&lt;div&gt;18762504 alignments&lt;/div&gt;&lt;div&gt;7373144 of those passed thresholds 39%&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1499" y="4416" width="148" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-3" value="&lt;div&gt;213615 unique ST &amp;gt;=5 10.1%&lt;br&gt;216827 unique RJ hits 1.97%&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-3" value="&lt;div&gt;213615 unique ST &amp;gt;=5 10.1%&lt;br&gt;216827 unique RJ hits 1.97%&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1340" y="4428" width="180" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="dRt-UVQYtzfeHvVl3BMC-4" value="296544 ST seqs &amp;gt;=5" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dRt-UVQYtzfeHvVl3BMC-4" value="296544 ST seqs &amp;gt;=5" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1488" y="4380" width="139" height="38" as="geometry" />
         </mxCell>
       </root>
