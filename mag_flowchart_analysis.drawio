@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5812" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2195,6 +2195,11 @@
         <mxCell id="864Gorrm9WD0UoEy7kQF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15" target="864Gorrm9WD0UoEy7kQF-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MI0mFNXXeWYb_GXExgg7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2092" y="4356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-15" value="RJ vs ST&lt;br&gt;sequence alignment" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1758.75" y="4229" width="95.5" height="94.5" as="geometry" />
         </mxCell>
@@ -2243,8 +2248,23 @@
         <mxCell id="dRt-UVQYtzfeHvVl3BMC-4" value="296,544 ST seqs &amp;gt;=5" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1493" y="4459" width="139" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="5_X2gjsubGyl6H6Lb81s-0" value="868,458 RJ seqs &amp;gt;=10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5_X2gjsubGyl6H6Lb81s-0" value="868,458 RJ seqs &amp;gt;=10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1861" y="4429" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MI0mFNXXeWYb_GXExgg7-0" value="1,559,922 RJ seqs &amp;gt;=5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2241" y="4318.25" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MI0mFNXXeWYb_GXExgg7-2" value="296,544 ST seqs &amp;gt;=5" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2047" y="4318.25" width="139" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MI0mFNXXeWYb_GXExgg7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MI0mFNXXeWYb_GXExgg7-4" target="MI0mFNXXeWYb_GXExgg7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MI0mFNXXeWYb_GXExgg7-4" value="55,458,356 alignments calculated&lt;br&gt;29,478,298 sequence pairs passed the thresholds (0.531539 of overall calculated)&lt;br&gt;49.703075 hits per query sequence" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2260" y="4365" width="366" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="MI0mFNXXeWYb_GXExgg7-5" value="248,357 unique ST hits = 83.7%&amp;nbsp;&lt;br&gt;616,420 unique RJ hits = 39.5%" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2137" y="4547" width="184" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
