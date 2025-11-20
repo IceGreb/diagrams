@@ -2706,8 +2706,8 @@
         <mxCell id="PE5u1BloqkfKokq423va-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PE5u1BloqkfKokq423va-6" target="PE5u1BloqkfKokq423va-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PE5u1BloqkfKokq423va-11" value="All domains - both tools" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="130" height="30" as="geometry" />
+        <mxCell id="PE5u1BloqkfKokq423va-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;All domains - both tools&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PE5u1BloqkfKokq423va-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PE5u1BloqkfKokq423va-7" target="PE5u1BloqkfKokq423va-12">
           <mxGeometry relative="1" as="geometry" />
