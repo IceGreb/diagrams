@@ -2624,7 +2624,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t0abzhsdhLHTyJUPw2Dz" name="Page-4">
-    <mxGraphModel dx="2305" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2750,7 +2750,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="BSSL top GENUS (sorted by abundance)" vertex="1">
-          <mxGeometry height="645" width="240" x="175" y="695" as="geometry" />
+          <mxGeometry height="625" width="240" x="175" y="695" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-2" parent="ahH0x8K9r3HSZHn2iAfZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Micromonospora" vertex="1">
           <mxGeometry height="30" width="90" x="65" y="30" as="geometry" />
@@ -2825,7 +2825,7 @@
           <mxGeometry height="30" width="130" x="50" y="535" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Overlapping Species" vertex="1">
-          <mxGeometry height="675" width="240" x="500" y="695" as="geometry" />
+          <mxGeometry height="625" width="240" x="500" y="695" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-20" parent="ahH0x8K9r3HSZHn2iAfZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pseudomonas aeruginosa #7" vertex="1">
           <mxGeometry height="30" width="160" x="40" y="100" as="geometry" />
