@@ -2750,7 +2750,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="BSSL top GENUS (sorted by abundance)" vertex="1">
-          <mxGeometry height="580" width="230" x="180" y="695" as="geometry" />
+          <mxGeometry height="645" width="240" x="175" y="695" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-2" parent="ahH0x8K9r3HSZHn2iAfZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Micromonospora" vertex="1">
           <mxGeometry height="30" width="90" x="65" y="30" as="geometry" />
@@ -2759,7 +2759,7 @@
           <mxGeometry height="30" width="110" x="55" y="100" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-4" parent="ahH0x8K9r3HSZHn2iAfZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Micrococcus" vertex="1">
-          <mxGeometry height="30" width="110" x="60" y="380" as="geometry" />
+          <mxGeometry height="30" width="110" x="60" y="385" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-5" parent="ahH0x8K9r3HSZHn2iAfZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Nocardioides&lt;/div&gt;&lt;div&gt;Sphingomonas&lt;/div&gt;&lt;div&gt;Antiquaquibacter&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="55" y="320" as="geometry" />
@@ -2819,19 +2819,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-54" parent="ahH0x8K9r3HSZHn2iAfZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bacillus" vertex="1">
-          <mxGeometry height="30" width="110" x="60" y="430" as="geometry" />
+          <mxGeometry height="30" width="110" x="60" y="455" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-65" parent="ahH0x8K9r3HSZHn2iAfZ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Corynebacterium" vertex="1">
-          <mxGeometry height="30" width="130" x="50" y="500" as="geometry" />
+          <mxGeometry height="30" width="130" x="50" y="535" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Overlapping Species" vertex="1">
           <mxGeometry height="675" width="240" x="500" y="695" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-20" parent="ahH0x8K9r3HSZHn2iAfZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pseudomonas aeruginosa #7" vertex="1">
-          <mxGeometry height="30" width="160" x="40" y="105" as="geometry" />
+          <mxGeometry height="30" width="160" x="40" y="100" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-21" parent="ahH0x8K9r3HSZHn2iAfZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Escherichia coli #5" vertex="1">
-          <mxGeometry height="30" width="110" x="65" y="197.5" as="geometry" />
+          <mxGeometry height="30" width="110" x="65" y="192.5" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-22" parent="ahH0x8K9r3HSZHn2iAfZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=#FF5F0F;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Acinetobacter johnsonii" vertex="1">
           <mxGeometry height="30" width="160" x="40" y="295" as="geometry" />
@@ -2840,7 +2840,7 @@
           <mxGeometry height="30" width="160" x="40" y="322.5" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-42" parent="ahH0x8K9r3HSZHn2iAfZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cutibacterium acnes #15" vertex="1">
-          <mxGeometry height="30" width="140" x="50" y="237.5" as="geometry" />
+          <mxGeometry height="30" width="140" x="55" y="232.5" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-53" parent="ahH0x8K9r3HSZHn2iAfZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Micrococcus luteus #8" vertex="1">
           <mxGeometry height="30" width="140" x="50" y="385" as="geometry" />
@@ -2861,16 +2861,16 @@
           <mxGeometry height="625" width="230" x="830" y="695" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-28" parent="ahH0x8K9r3HSZHn2iAfZ-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pseudomonas" vertex="1">
-          <mxGeometry height="30" width="110" x="60" y="105" as="geometry" />
+          <mxGeometry height="30" width="110" x="60" y="100" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-29" parent="ahH0x8K9r3HSZHn2iAfZ-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bacillota" vertex="1">
           <mxGeometry height="30" width="110" x="60" y="305" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-39" parent="ahH0x8K9r3HSZHn2iAfZ-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Escherichia" vertex="1">
-          <mxGeometry height="30" width="110" x="60" y="197.5" as="geometry" />
+          <mxGeometry height="30" width="110" x="60" y="192.5" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-45" parent="ahH0x8K9r3HSZHn2iAfZ-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cutibacterium" vertex="1">
-          <mxGeometry height="30" width="105" x="62.5" y="237.5" as="geometry" />
+          <mxGeometry height="30" width="105" x="62.5" y="232.5" as="geometry" />
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-49" parent="ahH0x8K9r3HSZHn2iAfZ-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Acinetobacter" vertex="1">
           <mxGeometry height="30" width="110" x="60" y="275" as="geometry" />
