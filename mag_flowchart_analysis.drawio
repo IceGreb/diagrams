@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="6768" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6376" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2343,6 +2343,31 @@
           <mxGeometry height="48" width="178" x="303" as="geometry">
             <mxRectangle height="48" width="178" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-48" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zb8vw5TB0Emt47LHiuWP-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zb8vw5TB0Emt47LHiuWP-50" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3240" y="69.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-49" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zb8vw5TB0Emt47LHiuWP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zb8vw5TB0Emt47LHiuWP-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-50" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" value="Trimming" vertex="1">
+          <mxGeometry height="90" width="100" x="-3290" y="184.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-51" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zb8vw5TB0Emt47LHiuWP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2883" y="234.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-52" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;" value="trimgalore" vertex="1">
+          <mxGeometry height="80" width="120" x="-3085" y="194.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-53" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zb8vw5TB0Emt47LHiuWP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.06;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" target="zb8vw5TB0Emt47LHiuWP-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zb8vw5TB0Emt47LHiuWP-54" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" value="Trimmed RNA reads" vertex="1">
+          <mxGeometry height="60" width="120" x="-3300" y="376.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
