@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="7235" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7642" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2826,11 +2826,26 @@
         <mxCell id="GvLFVtTq5uyiTzAsgTkv-21" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="Taxonomic&lt;br&gt;Classification" vertex="1">
           <mxGeometry height="112" width="142" x="-4801" y="1070" as="geometry" />
         </mxCell>
+        <mxCell id="GvLFVtTq5uyiTzAsgTkv-25" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GvLFVtTq5uyiTzAsgTkv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GvLFVtTq5uyiTzAsgTkv-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GvLFVtTq5uyiTzAsgTkv-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="Classified Unmapped/Decontaminated&amp;nbsp;&lt;br&gt;gut RNA Reads" vertex="1">
           <mxGeometry height="114" width="186" x="-4823" y="1356" as="geometry" />
         </mxCell>
         <mxCell id="GvLFVtTq5uyiTzAsgTkv-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" value="Collapsed RNA reads" vertex="1">
           <mxGeometry height="60" width="120" x="-4783" y="572" as="geometry" />
+        </mxCell>
+        <mxCell id="GvLFVtTq5uyiTzAsgTkv-27" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GvLFVtTq5uyiTzAsgTkv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GvLFVtTq5uyiTzAsgTkv-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvLFVtTq5uyiTzAsgTkv-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="trans Filtering" vertex="1">
+          <mxGeometry height="80" width="80" x="-4770" y="1567" as="geometry" />
+        </mxCell>
+        <mxCell id="GvLFVtTq5uyiTzAsgTkv-26" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" value="RISC trans RNAs" vertex="1">
+          <mxGeometry height="60" width="120" x="-4790" y="1737" as="geometry" />
+        </mxCell>
+        <mxCell id="GvLFVtTq5uyiTzAsgTkv-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;aln_len = $4 + 0&amp;nbsp; &amp;nbsp; &amp;nbsp; # alignment length&lt;br&gt;&amp;nbsp; &amp;nbsp; mism&amp;nbsp; &amp;nbsp; = $5 + 0&amp;nbsp; &amp;nbsp; &amp;nbsp; # mismatches&lt;br&gt;&amp;nbsp; &amp;nbsp; gaps&amp;nbsp; &amp;nbsp; = $6 + 0&amp;nbsp; &amp;nbsp; &amp;nbsp; # gap opens&lt;br&gt;&amp;nbsp; &amp;nbsp; qstart&amp;nbsp; = $7 + 0&amp;nbsp; &amp;nbsp; &amp;nbsp; # query start&lt;br&gt;&amp;nbsp; &amp;nbsp; qend&amp;nbsp; &amp;nbsp; = $8 + 0&amp;nbsp; &amp;nbsp; &amp;nbsp; # query end&lt;br&gt;&amp;nbsp; &amp;nbsp; qlen&amp;nbsp; &amp;nbsp; = $11 + 0&amp;nbsp; &amp;nbsp; &amp;nbsp;# query length&lt;br&gt;no viruses&lt;br&gt;no invertebrates&lt;br&gt;no insecta&lt;br&gt;&lt;font&gt;no&amp;nbsp;&lt;span data-contrast=&quot;auto&quot; style=&quot;font-family: &amp;quot;Calibri&amp;quot;, &amp;quot;Calibri_EmbeddedFont&amp;quot;, &amp;quot;Calibri_MSFontService&amp;quot;, &amp;quot;Sans-Serif&amp;quot;; line-height: 17.6px; vertical-align: -0.111111px; padding-top: 0.111111px;&quot; class=&quot;TextRun SCXP201724139 BCX2&quot; lang=&quot;EN-US&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP201724139 BCX2&quot; style=&quot;vertical-align: 0.111111px; line-height: 0px; position: relative; text-decoration: none;&quot;&gt;Muridae: family, rodents&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXP201724139 BCX2&quot; style=&quot;line-height: 0px; font-family: &amp;quot;Calibri&amp;quot;, &amp;quot;Calibri_EmbeddedFont&amp;quot;, &amp;quot;Calibri_MSFontService&amp;quot;, &amp;quot;Sans-Serif&amp;quot;;&quot;&gt;​&lt;br&gt;&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot; style=&quot;font-family: &amp;quot;Calibri&amp;quot;, &amp;quot;Calibri_EmbeddedFont&amp;quot;, &amp;quot;Calibri_MSFontService&amp;quot;, &amp;quot;Sans-Serif&amp;quot;; line-height: 17.6px; vertical-align: -0.111111px; padding-top: 0.111111px;&quot; class=&quot;TextRun SpellingErrorZoomed SCXP201724139 BCX2&quot; lang=&quot;EN-US&quot;&gt;&lt;span class=&quot;annotation-5ed9987c-b5ef-4867-af53-65839bfde7b4 SCXP201724139 BCX2&quot; style=&quot;vertical-align: 0.111111px; line-height: 0px; position: relative; text-decoration: none;&quot;&gt;no Hominoidea&lt;/span&gt;&lt;/span&gt;&lt;span data-contrast=&quot;auto&quot; style=&quot;font-family: &amp;quot;Calibri&amp;quot;, &amp;quot;Calibri_EmbeddedFont&amp;quot;, &amp;quot;Calibri_MSFontService&amp;quot;, &amp;quot;Sans-Serif&amp;quot;; line-height: 17.6px; vertical-align: -0.111111px; padding-top: 0.111111px;&quot; class=&quot;TextRun SCXP201724139 BCX2&quot; lang=&quot;EN-US&quot;&gt;&lt;span class=&quot;NormalTextRun SCXP201724139 BCX2&quot; style=&quot;vertical-align: 0.111111px; line-height: 0px; position: relative; text-decoration: none;&quot;&gt;: (apes), superfamily, primates&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="181" width="315" x="-4609" y="1530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
