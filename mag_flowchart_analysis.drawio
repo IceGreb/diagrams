@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="7642" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="9977" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -763,10 +763,10 @@
         <mxCell id="R5FXkQCkuI0y1Rf3ddFC-21" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="Align" vertex="1">
           <mxGeometry height="80" width="80" x="509" y="833" as="geometry" />
         </mxCell>
-        <mxCell id="9gkYtJckXUc7_zGe5bQU-0" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" value="" vertex="1">
+        <mxCell id="9gkYtJckXUc7_zGe5bQU-0" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group;" value="" vertex="1">
           <mxGeometry height="254" width="650" x="849" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="9gkYtJckXUc7_zGe5bQU-1" connectable="0" parent="9gkYtJckXUc7_zGe5bQU-0" style="group" value="" vertex="1">
+        <mxCell id="9gkYtJckXUc7_zGe5bQU-1" connectable="0" parent="9gkYtJckXUc7_zGe5bQU-0" style="group;" value="" vertex="1">
           <mxGeometry height="254" width="650" as="geometry" />
         </mxCell>
         <mxCell id="zTSfxV0gaFB9FaLGtcT8-104" parent="9gkYtJckXUc7_zGe5bQU-1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h3&gt;&lt;strong&gt;MetaBAT2 Parameters and Descriptions&lt;/strong&gt;&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Parameter&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;Value&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;-m&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;1500&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Sets the &lt;strong&gt;minimum contig length&lt;/strong&gt; to 1500 bp. Contigs shorter than this are excluded from binning.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;--unbinned&lt;/code&gt;&lt;/td&gt;&lt;td&gt;(No value)&lt;/td&gt;&lt;td&gt;Saves &lt;strong&gt;unbinned contigs&lt;/strong&gt; to a separate file. These are contigs that were not assigned to any bin.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;code&gt;--seed&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;1&lt;/code&gt;&lt;/td&gt;&lt;td&gt;Sets the &lt;strong&gt;random seed&lt;/strong&gt; to 1 for reproducibility. This ensures consistent results across runs.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
@@ -2125,7 +2125,7 @@
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-228" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RJ RNA&amp;nbsp; 29,645,688&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Trans. RNA&amp;nbsp; 4,803,124&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;= 34,448,812&lt;/font&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="125" width="172" x="-2472" y="3091" as="geometry" />
         </mxCell>
-        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-230" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" value="" vertex="1">
+        <mxCell id="Q6DAF8uBxNN7fI20Kvzg-230" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group;" value="" vertex="1">
           <mxGeometry height="255" width="269" x="-2361" y="2844" as="geometry" />
         </mxCell>
         <mxCell id="Q6DAF8uBxNN7fI20Kvzg-16" parent="Q6DAF8uBxNN7fI20Kvzg-230" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=46.000000000000455;" value="&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Muridae&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Hominoidea&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Viral&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;Insecta&lt;br&gt;Invertebrates&lt;/font&gt;" vertex="1">
