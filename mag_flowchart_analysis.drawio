@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="8779" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="7431" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3606,8 +3606,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9DcnltxQ3S5THIkI0jGw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;RNA reads of &amp;gt;=5 duplicates&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;kraken/blast results of &amp;gt;= 18 query length&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;already excluded taxonomic results:&lt;/div&gt;&lt;div&gt;(invertebrates, viruses, homo, mus)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="245" x="303" y="40" as="geometry" />
+        <mxCell id="9DcnltxQ3S5THIkI0jGw-3" edge="1" parent="1" source="9DcnltxQ3S5THIkI0jGw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9DcnltxQ3S5THIkI0jGw-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DcnltxQ3S5THIkI0jGw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;RNA reads of &amp;gt;=5 duplicates&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;kraken/blast results of &amp;gt;= 18 query length&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;already excluded taxonomic results:&lt;/div&gt;&lt;div&gt;(invertebrates, viruses, homo, mus)&lt;/div&gt;&lt;div&gt;and&amp;nbsp;&lt;/div&gt;&lt;div&gt;already filtered out bee genome+metagenome/viral/human reads&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="245" x="303" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DcnltxQ3S5THIkI0jGw-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="aligned ST against RJ reads with mmseqs" vertex="1">
+          <mxGeometry height="60" width="120" x="365.5" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
