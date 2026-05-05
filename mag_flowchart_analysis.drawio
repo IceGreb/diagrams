@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="8779" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
@@ -3597,6 +3597,17 @@
         </mxCell>
         <mxCell id="ahH0x8K9r3HSZHn2iAfZ-70" edge="1" parent="1" source="ahH0x8K9r3HSZHn2iAfZ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ahH0x8K9r3HSZHn2iAfZ-69">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KxT7wPjXqFkTkBMcGaiO" name="Page-5">
+    <mxGraphModel dx="1348" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9DcnltxQ3S5THIkI0jGw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;RNA reads of &amp;gt;=5 duplicates&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;kraken/blast results of &amp;gt;= 18 query length&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;already excluded taxonomic results:&lt;/div&gt;&lt;div&gt;(invertebrates, viruses, homo, mus)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="245" x="303" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
