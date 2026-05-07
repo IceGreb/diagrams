@@ -3685,7 +3685,7 @@
           <mxGeometry height="30" width="630" x="-610" y="810" as="geometry" />
         </mxCell>
         <mxCell id="ZahfiGvCmnZr1NF6I9xy-2" parent="1" style="whiteSpace=wrap;html=1;" value="classified only and rest of filters" vertex="1">
-          <mxGeometry height="60" width="120" x="-1065" y="795" as="geometry" />
+          <mxGeometry height="60" width="120" x="-965" y="795" as="geometry" />
         </mxCell>
         <mxCell id="ZahfiGvCmnZr1NF6I9xy-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/out/blast/04_12_2025_summarized_results_all_lengths/RJ1_1.tsv" vertex="1">
           <mxGeometry height="30" width="630" x="-590" y="930" as="geometry" />
