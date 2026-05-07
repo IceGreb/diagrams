@@ -3602,7 +3602,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KxT7wPjXqFkTkBMcGaiO" name="Page-5">
-    <mxGraphModel dx="2054" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3286" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3617,6 +3617,75 @@
         </mxCell>
         <mxCell id="FOsWqeHzZT4AXxT91b3U-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;Collapse reads after bbsplit&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="230" width="260" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFD966;strokeColor=#d6b656;" value="Raw RNA reads" vertex="1">
+          <mxGeometry height="40" width="120" x="-340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" value="Trimmed RNA reads" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A7C942;strokeColor=#82b366;" value="Unmapped RNA reads" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Decontaminated RNA reads" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;" value="Clean RNA reads" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="blast classified&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;&lt;br&gt;63,728,996&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;Classified&lt;/div&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size:14pt;font-family:Arial;font-style:normal;color:#434343;text-align:right;&quot;&gt;61,685,552&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="2742" as="geometry" />
+        </mxCell>
+        <mxCell id="vh20Zvo_BS-Stwrm67u7-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="kraken classified&lt;br&gt;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size: 14pt; font-family: Arial; font-style: normal; color: rgb(67, 67, 67); text-align: right;&quot;&gt;94,156,610&lt;/span&gt;&lt;style type=&quot;text/css&quot;&gt;td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}&lt;/style&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="aB0y5Ucd82lvpWlt0Cc_-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/in/raw_data/RNA/Systemic_larval_tissue/T1GMN/T1GMN_1.fq.gz" vertex="1">
+          <mxGeometry height="30" width="660" x="-610" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aB0y5Ucd82lvpWlt0Cc_-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/out/trans_RNAs/raw_trimmed/RJ1_trimmed_1_val_1.fq.gz" vertex="1">
+          <mxGeometry height="30" width="610" x="-585" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aB0y5Ucd82lvpWlt0Cc_-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/hpc-work/transmissible_RNA/out/new_manual_run/STAR/2MM/RJ1/RJ1_Unmapped.out.mate1 (fq)" vertex="1">
+          <mxGeometry height="30" width="520" x="-540" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-3" edge="1" parent="1" source="wouf7Cx7-yaZ9KkcAs_k-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wouf7Cx7-yaZ9KkcAs_k-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/out/bbsplit/RNA/2MM/filtered/Filtered_RJ1_2MM_bbsplit_clean1.fq" vertex="1">
+          <mxGeometry height="30" width="550" x="-550" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-2" parent="1" style="whiteSpace=wrap;html=1;" value="ameli+human" vertex="1">
+          <mxGeometry height="35" width="115" x="-952.5" y="507.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-6" edge="1" parent="1" source="wouf7Cx7-yaZ9KkcAs_k-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wouf7Cx7-yaZ9KkcAs_k-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/out/bbsplit/RNA/2MM/antiviral/Clean_RJ1_2MM_bbsplit_1.fq" vertex="1">
+          <mxGeometry height="30" width="560" x="-570" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-5" parent="1" style="whiteSpace=wrap;html=1;" value="12 viral" vertex="1">
+          <mxGeometry height="30" width="100" x="-945" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-9" edge="1" parent="1" source="wouf7Cx7-yaZ9KkcAs_k-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wouf7Cx7-yaZ9KkcAs_k-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/out/bbsplit/RNA/2MM/no_MAGs/no_MAGs_RJ1_2MM_clean1.fq" vertex="1">
+          <mxGeometry height="30" width="530" x="-550" y="687.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wouf7Cx7-yaZ9KkcAs_k-8" parent="1" style="whiteSpace=wrap;html=1;" value="mags" vertex="1">
+          <mxGeometry height="45" width="65" x="-915" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ZahfiGvCmnZr1NF6I9xy-3" edge="1" parent="1" source="ZahfiGvCmnZr1NF6I9xy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZahfiGvCmnZr1NF6I9xy-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZahfiGvCmnZr1NF6I9xy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/home/nv358/rds/rds-apis-mellifera-7BbYnVDdZgw/transmissible_RNAome/out/tests/kraken/RNA/new_core_nt/RJ1_2MM_CLEAN_noMAGs_kraken_output_005_.txt" vertex="1">
+          <mxGeometry height="30" width="630" x="-610" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="ZahfiGvCmnZr1NF6I9xy-2" parent="1" style="whiteSpace=wrap;html=1;" value="classified only and rest of filters" vertex="1">
+          <mxGeometry height="60" width="120" x="-1065" y="795" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
