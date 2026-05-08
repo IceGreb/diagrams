@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="7899" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="7193" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2218,6 +2218,11 @@
         <mxCell id="MI0mFNXXeWYb_GXExgg7-1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2092" y="4356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOFkwRhUBV9pSGdAcfJ3-0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#4daf4a, #ededed);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2470" y="4350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="RJ vs ST&lt;br&gt;sequence alignment" vertex="1">
