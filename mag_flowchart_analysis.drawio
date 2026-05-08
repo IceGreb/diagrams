@@ -2222,7 +2222,10 @@
         </mxCell>
         <mxCell id="DOFkwRhUBV9pSGdAcfJ3-0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="864Gorrm9WD0UoEy7kQF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#4daf4a, #ededed);">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2470" y="4350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2470" y="4276" />
+            </Array>
+            <mxPoint x="-2470" y="4490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="864Gorrm9WD0UoEy7kQF-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="RJ vs ST&lt;br&gt;sequence alignment" vertex="1">
@@ -2883,6 +2886,23 @@
         </mxCell>
         <mxCell id="y1HVTCPSCtYuEqc3Cxta-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #bbbebf;background-color: #121314;font-family: &#39;Droid Sans Mono&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;97&lt;/span&gt;&lt;span style=&quot;color: #bbbebf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;22&lt;/span&gt;&lt;span style=&quot;color: #bbbebf;&quot;&gt;% overall alignment rate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="280" x="-670" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="DOFkwRhUBV9pSGdAcfJ3-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ST fasta seqs from report: 7,576,054 passed to mmseqs&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="-2458" y="4293.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DOFkwRhUBV9pSGdAcfJ3-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;04/05/2026 mmseqs run&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="-2440" y="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="DOFkwRhUBV9pSGdAcfJ3-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;RJ fasta seqs from report: 81,511,308&lt;/div&gt;&lt;div&gt;passed to mmseqs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="-2597" y="4293.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DOFkwRhUBV9pSGdAcfJ3-5" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DOFkwRhUBV9pSGdAcfJ3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2479" y="4620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOFkwRhUBV9pSGdAcfJ3-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3155252834 alignments calculated&lt;br&gt;2571502368 sequence pairs passed the thresholds (0.814991 of overall calculated)&lt;br&gt;169.712509 hits per query sequence" vertex="1">
+          <mxGeometry height="30" width="250" x="-2604" y="4505" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
